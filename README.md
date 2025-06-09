@@ -16,12 +16,16 @@ A simple and fun **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaSc
 2. Open the `index.html` file in your browser.
 3. Start playing!
 
-📂 Project Structure
 
-**Tic-Tac-Toe**
-1.index.html # Main game layout
-2.style.css # Styling for the board and UI
-3.script.js # Game logic and interactions
+
+## 📂 Project Structure
+
+    tic-tac-toe/
+    │
+    ├── index.html    # Main game layout
+    ├── style.css     # Styling for the board and UI
+    └── script.js     # Game logic and interactions
+
 
 
 🧠 What You’ll Learn
